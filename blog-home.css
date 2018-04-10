@@ -20,3 +20,8 @@ body {
   }
 }
 
+   .tocenter {
+    margin:0 auto;
+    display: inline;
+    }
+
